@@ -7,7 +7,7 @@ I'm currently pursuing a Master's degree in Electronic Information at the Depart
 
 #### Education  
 **Taiyuan Normal University**, Master of Electronic Information (2023–2026)  
-• Research Areas: Deep Learning, Anomaly Detection, Time Series Analysis  
+• Research Areas: Deep Learning, Anomaly Detection 
 
 **Shanxi Agricultural University**, Bachelor of Information and Computing Science (2019–2023)  
 
