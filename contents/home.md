@@ -1,20 +1,16 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![GitHub](https://img.shields.io/badge/GitHub-fyr123456789-blue?logo=github)](https://github.com/fyr123456789)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Master's degree in Electronic Information at the Department of Computer Science, Taiyuan Normal University, China (2023–2026).
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>1895942075@163.com</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Taiyuan Normal University**, Master of Electronic Information (2023–2026)  
+• Research Areas: Deep Learning, Anomaly Detection, Time Series Analysis  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Shanxi Agricultural University**, Bachelor of Information and Computing Science (2019–2023)  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Deep Learning, Anomaly Detection.
